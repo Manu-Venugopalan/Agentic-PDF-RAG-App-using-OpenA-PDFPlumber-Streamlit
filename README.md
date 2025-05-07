@@ -1,6 +1,14 @@
 # Agentic-PDF-RAG-App-using-OpenAI-pdfplumber-Streamlit
 
 ## 🧠 Agentic PDF RAG App using OpenAI + pdfplumber
+![Made with Python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)
+![Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-brightgreen)
+![LangChain](https://img.shields.io/badge/Powered%20by-LangChain-blue)
+![OpenAI](https://img.shields.io/badge/Integrates-OpenAI-ff69b4)
+![pdfplumber](https://img.shields.io/badge/PDF%20Parsing-pdfplumber-yellow)
+![FAISS](https://img.shields.io/badge/Vector%20Search-FAISS-orange)
+![Agentic RAG](https://img.shields.io/badge/Approach-Agentic%20RAG-red)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 ### 🔍 Project Overview
 
